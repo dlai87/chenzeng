@@ -10090,7 +10090,10 @@ header .search-form .form-control:-moz-placeholder {
 }
 
 .section-chen {
-  padding: 5em 0;
+  padding-top: 5em 0;
+  padding-bottom: 1em 0;
+  padding-left: 7em 0;
+  padding-right: 7em 0;
 }
 
 .section-subscribe {
