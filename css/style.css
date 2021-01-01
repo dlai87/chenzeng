@@ -4274,8 +4274,8 @@ input[type="button"].btn-block {
 
 .navbar-toggler-icon {
   display: inline-block;
-  width: 1em;
-  height: 1em;
+  width: 1.5em;
+  height: 1.5em;
   vertical-align: middle;
   content: "";
   background: no-repeat center center;
@@ -10091,7 +10091,7 @@ header .search-form .form-control:-moz-placeholder {
 
 .section-chen {
   padding-top: 50px;
-  padding-bottom: 10px;
+  padding-bottom:10px;
   padding-left: 7em 0;
   padding-right: 7em 0;
 }
