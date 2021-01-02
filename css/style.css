@@ -10091,7 +10091,7 @@ header .search-form .form-control:-moz-placeholder {
 
 .section-chen {
   padding-top: 50px;
-  padding-bottom:10px;
+  padding-bottom: 5em 0;
   padding-left: 7em 0;
   padding-right: 7em 0;
 }
@@ -11234,7 +11234,6 @@ figure figcaption {
 .work-thumb .work-text h2 {
   color: #fff;
   font-weight: 300;
-  text-transform: uppercase;
   margin-bottom: 0;
   font-size: 1.5rem;
 }
